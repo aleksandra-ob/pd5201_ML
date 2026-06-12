@@ -1,5 +1,5 @@
 import pandas as pd
-
+ 
 df = pd.read_csv("dane_projekt1.csv")
 print(df.describe())
 
